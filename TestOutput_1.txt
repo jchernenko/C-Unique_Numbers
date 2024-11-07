@@ -1,0 +1,54 @@
+Enter # 1: 9
+The number entered is not in the valid range of 10 to 100
+
+Enter # 1: 101
+The number entered is not in the valid range of 10 to 100
+
+Enter # 1: 20
+The number: 20 is unique
+
+Enter # 2: 20
+
+Enter # 3: 20
+
+Enter # 4: 20
+
+Enter # 5: 20
+
+Enter # 6: 20
+
+Enter # 7: 20
+
+Enter # 8: 20
+
+Enter # 9: 20
+
+Enter # 10: 20
+
+Enter # 11: 20
+
+Enter # 12: 20
+
+Enter # 13: 20
+
+Enter # 14: 20
+
+Enter # 15: 20
+
+Enter # 16: 20
+
+Enter # 17: 20
+
+Enter # 18: 20
+
+Enter # 19: 20
+
+Enter # 20: 20
+
+
+All of the unique numbers found are:
+
+    20
+
+C:\Users\Default.DESKTOP-QHS9E07\Documents\Visual Studio Projects\Assign03\Assign03\x64\Debug\Assign03.exe (process 29712) exited with code 0.
+Press any key to close this window . . .
